@@ -1,0 +1,14 @@
+name: semimar
+entrypoint: chmod 777 ./train.sh && sh ./train.sh
+searcher:
+  name: single
+  metric: validation_loss
+  max_length:
+    batches: 1
+max_restarts: 0
+resources:
+  resource_pool: RTX3090
+environment:
+  image:
+    cuda: xwj90620/ctlib_pytorch:1.0
+    
