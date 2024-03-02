@@ -28,7 +28,7 @@ The authors would like to thank Dr. Haofu Liao (liaohaofu@gmail.com) for providi
 ## Citation
 If you find this work useful for your research, please cite our paper:
 ```
-@@ARTICLE{10239528,
+@ARTICLE{10239528,
   author={Wang, Tao and Yu, Hui and Wang, Zhiwen and Chen, Hu and Liu, Yan and Lu, Jingfeng and Zhang, Yi},
   journal={IEEE Journal of Biomedical and Health Informatics}, 
   title={SemiMAR: Semi-Supervised Learning for CT Metal Artifact Reduction}, 
